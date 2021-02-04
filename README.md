@@ -5,6 +5,6 @@ Important: Для просмотра нужна будет подписка ки
 
 
 Usage:
-1. Скачиваем приложение по [ссылке](https://github.com/DaichiRyuu/TheBigBangTheory_Randomizer/releases/download/1.0/TheBigBangTeory_Randomizer.exe)
+1. Скачиваем приложение по [ссылке](https://github.com/DaichiRyuu/TheBigBangTheory_Randomizer/releases/download/v1.0/TheBigBangTeory_Randomizer.exe)
 2. Запускаем двойным нажатием на иконку
 3. Наслаждаемся :)

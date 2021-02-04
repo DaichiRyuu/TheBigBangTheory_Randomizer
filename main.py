@@ -24,8 +24,10 @@ def get_url(season_num, episode_num):
 
 
 if __name__ == '__main__':
-    # pyinstaller --onefile --nowindowed --icon "TBBT.ico" --name "TheBigBangTeory_Randomizer" main.py
     season = get_season()
     episode = get_episode(season)
     browser_open(get_url(season, episode))
     sys_exit()
+
+
+# pyinstaller --onefile --nowindowed --icon "ico/TBBT.ico" --name "TheBigBangTheory_Randomizer" main.py
